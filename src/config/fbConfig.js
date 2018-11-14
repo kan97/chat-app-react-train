@@ -5,12 +5,12 @@ import 'firebase/database'
 
 // Initialize Firebase
 var config = {
-    apiKey: "AIzaSyBI33J2kkpNyXBJ6fNXWs1iNZc9hOvL-aY",
-    authDomain: "chat-app-7d14c.firebaseapp.com",
-    databaseURL: "https://chat-app-7d14c.firebaseio.com",
-    projectId: "chat-app-7d14c",
-    storageBucket: "chat-app-7d14c.appspot.com",
-    messagingSenderId: "468890275125"
+    apiKey: "AIzaSyDkbzqfvN70qf_R0uboLWsZpgHp58qGOck",
+    authDomain: "chat-app-react-train.firebaseapp.com",
+    databaseURL: "https://chat-app-react-train.firebaseio.com",
+    projectId: "chat-app-react-train",
+    storageBucket: "chat-app-react-train.appspot.com",
+    messagingSenderId: "509939733506"
 };
 
 firebase.initializeApp(config);
